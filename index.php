@@ -49,13 +49,16 @@
 				<div class="row">
 				<div class="col-xs-6 col-md-4">
 					A True SubGenius, however, understands EVERYTHING, INSTANTLY upon exposure to the Word or even just the Face of Dobbs.A True SubGenius, however, understands EVERYTHING, INSTANTLY upon exposure to the Word or even just the Face of Dobbs.A True SubGenius, however, understands EVERYTHING, INSTANTLY upon exposure to the Word or even just the Face of Dobbs.A True SubGenius, however, understands EVERYTHING, INSTANTLY upon exposure to the Word or even just the Face of Dobbs.
+					<img src="shoulderCat.jpg" width="250" height="200" alt="photo of derp">
 				</div>
 
 				<div class="col-xs-6 col-md-4">
 					If the Church could provide THAT, it would be bigger than Islam or Christianity by now -- and probably much, much worse.If the Church could provide THAT, it would be bigger than Islam or Christianity by now -- and probably much, much worse.If the Church could provide THAT, it would be bigger than Islam or Christianity by now -- and probably much, much worse.If the Church could provide THAT, it would be bigger than Islam or Christianity by now -- and probably much, much worse.
+					<img src="shoulderCat.jpg" width="250" height="200" alt="photo of derp">
 				</div>
 
 				<div class="col-xs-6 col-md-4">The next step after reading the Sacred Pamphlets (links above) would be to procure THE BOOK OF THE SUBGENIUS and its companion volume, REVELATION X, from our shops, EBay, or better bookstores anywhere. (The feature-length video, ARISE!, will do in a pinch for illiterates.)The next step after reading the Sacred Pamphlets (links above) would be to procure THE BOOK OF THE SUBGENIUS and its companion volume, REVELATION X, from our shops, EBay, or better bookstores anywhere. (The feature-length video, ARISE!, will do in a pinch for illiterates.)
+					<img src="shoulderCat.jpg" width="250" height="200" alt="photo of derp">
 				</div>
 			</div>
 
