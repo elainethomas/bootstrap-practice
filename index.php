@@ -36,6 +36,27 @@
 		<header>
 			<h1>This is Elaine's Pootstrap Bractice</h1>
 		</header>
+			<nav class="navbar navbar-inverse">
+				<!-- logo and mobile toggle button get grouped together for better mobile display -->
+				<div class="navbar-header">
+					<!-- this is the mobile menu button -->
+					<button class="navbar-toggle collapsed" type="button" data-toggle="collapse" data-target="#main-menu">
+						<span class="sr-only">main menu</span>
+						<span class="glyphicon glyphicon-menu-hamburger"></span>
+					</button>
+					<a class="navbar-brand" href="#">Elaine's Super Awesome Page</a>
+				</div>
+
+				<!-- here are your main nav links, grouped for toggling -->
+				<div class="collapse navbar-collapse" id="main-menu">
+					<ul class="nav navbar-nav navbar-right">
+						<li><a href="#">Home</a></li>
+						<li><a href="#">Link1</a></li>
+						<li><a href="#">Link2</a></li>
+						<li><a href="#">Link3</a></li>
+					</ul>
+				</div>
+			</nav>
 			<!-- Stack the columns on mobile by making one full-width and the other half-width
 			<div class="row">
 				<div class="col-xs-12 col-md-6">
@@ -44,21 +65,30 @@
 				<div class="col-xs-12 col-md-6">
 					A True SubGenius, however, understands EVERYTHING, INSTANTLY upon exposure to the Word or even just the Face of Dobbs.A True SubGenius, however, understands EVERYTHING, INSTANTLY upon exposure to the Word or even just the Face of Dobbs.A True SubGenius, however, understands EVERYTHING, INSTANTLY upon exposure to the Word or even just the Face of Dobbs.A True SubGenius, however, understands EVERYTHING, INSTANTLY upon exposure to the Word or even just the Face of Dobbs.A True SubGenius, however, understands EVERYTHING, INSTANTLY upon exposure to the Word or even just the Face of Dobbs.
 				</div>-->
+			<div class="row">
+				<div class="col-md-4">Apparenty the government is shutting down and secreting away all the people who believed in the conspiracy.  It was really something much much worse than humans taking over the world.</div>
+				<div class="col-md-4 col-md-offset-4">Some of the aliens that were found were actually human corpses.  That's the funny thing, they keep pulling the rug out from under you.</div>
+			</div>
+			<div class="row">
+				<div class="col-md-3 col-md-offset-3">You could make it bigger if you wanted it to.</div>
+				<div class="col-md-3 col-md-offset-3">Once upon a time my dad wanted to show me the movie the God Father.</div>
+			</div>
+			<div class="row">
+				<div class="col-md-6 col-md-offset-3">I'm normal now, I'm watching TV.  This commercial is on.  I've got a favorite show on every night.</div>
+			</div><br><br>
 
 			<!-- Columns start at 50% wide on mobile and bump up to 33.3% wide on desktop -->
 				<div class="row">
 				<div class="col-xs-6 col-md-4">
 					A True SubGenius, however, understands EVERYTHING, INSTANTLY upon exposure to the Word or even just the Face of Dobbs.A True SubGenius, however, understands EVERYTHING, INSTANTLY upon exposure to the Word or even just the Face of Dobbs.A True SubGenius, however, understands EVERYTHING, INSTANTLY upon exposure to the Word or even just the Face of Dobbs.A True SubGenius, however, understands EVERYTHING, INSTANTLY upon exposure to the Word or even just the Face of Dobbs.
-					<img src="shoulderCat.jpg" width="250" height="200" alt="photo of derp">
 				</div>
 
 				<div class="col-xs-6 col-md-4">
 					If the Church could provide THAT, it would be bigger than Islam or Christianity by now -- and probably much, much worse.If the Church could provide THAT, it would be bigger than Islam or Christianity by now -- and probably much, much worse.If the Church could provide THAT, it would be bigger than Islam or Christianity by now -- and probably much, much worse.If the Church could provide THAT, it would be bigger than Islam or Christianity by now -- and probably much, much worse.
-					<img src="shoulderCat.jpg" width="250" height="200" alt="photo of derp">
+					<img src="shoulderCat.jpg" width="250" height="175" alt="photo of derp">
 				</div>
 
 				<div class="col-xs-6 col-md-4">The next step after reading the Sacred Pamphlets (links above) would be to procure THE BOOK OF THE SUBGENIUS and its companion volume, REVELATION X, from our shops, EBay, or better bookstores anywhere. (The feature-length video, ARISE!, will do in a pinch for illiterates.)The next step after reading the Sacred Pamphlets (links above) would be to procure THE BOOK OF THE SUBGENIUS and its companion volume, REVELATION X, from our shops, EBay, or better bookstores anywhere. (The feature-length video, ARISE!, will do in a pinch for illiterates.)
-					<img src="shoulderCat.jpg" width="250" height="200" alt="photo of derp">
 				</div>
 			</div>
 
