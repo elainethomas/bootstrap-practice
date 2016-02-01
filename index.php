@@ -32,35 +32,43 @@
 		<title>Sample Bootstrap Page</title>
 	</head>
 	<body>
+		<div class="container-fluid">
 		<header>
-			<h1>Helloo World! :D</h1>
+			<h1>This is Elaine's Pootstrap Bractice</h1>
 		</header>
-		<div class="row">
-			<div class="col-md-1">.col-md-1</div>
-			<div class="col-md-1">.col-md-1</div>
-			<div class="col-md-1">.col-md-1</div>
-			<div class="col-md-1">.col-md-1</div>
-			<div class="col-md-1">.col-md-1</div>
-			<div class="col-md-1">.col-md-1</div>
-			<div class="col-md-1">.col-md-1</div>
-			<div class="col-md-1">.col-md-1</div>
-			<div class="col-md-1">.col-md-1</div>
-			<div class="col-md-1">.col-md-1</div>
-			<div class="col-md-1">.col-md-1</div>
-			<div class="col-md-1">.col-md-1</div>
-		</div>
-		<div class="row">
-			<div class="col-md-8">.col-md-8</div>
-			<div class="col-md-4">.col-md-4</div>
-		</div>
-		<div class="row">
-			<div class="col-md-4">.col-md-4</div>
-			<div class="col-md-4">.col-md-4</div>
-			<div class="col-md-4">.col-md-4</div>
-		</div>
-		<div class="row">
-			<div class="col-md-6">.col-md-6</div>
-			<div class="col-md-6">.col-md-6</div>
-		</div>
+			<!-- Stack the columns on mobile by making one full-width and the other half-width -->
+			<div class="row">
+				<div class="col-xs-12 col-md-8">Pity the poor human Earth Pink who comes looking for a SIMPLE, SHORT EXPLANATION of The Church of the SubGenius™, one that he or she can UNDERSTAND QUICKLY.
+
+				</div>
+				<div class="col-xs-6 col-md-4">
+					A True SubGenius, however, understands EVERYTHING, INSTANTLY upon exposure to the Word or even just the Face of Dobbs.
+				</div>
+
+			<!-- Columns start at 50% wide on mobile and bump up to 33.3% wide on desktop -->
+			<div class="row">
+				<div class="col-xs-6 col-md-4">
+					A True SubGenius, however, understands EVERYTHING, INSTANTLY upon exposure to the Word or even just the Face of Dobbs.
+				</div>
+
+				<div class="col-xs-6 col-md-4">
+					If the Church could provide THAT, it would be bigger than Islam or Christianity by now -- and probably much, much worse.
+				</div>
+
+				<div class="col-xs-6 col-md-4">The next step after reading the Sacred Pamphlets (links above) would be to procure THE BOOK OF THE SUBGENIUS and its companion volume, REVELATION X, from our shops, EBay, or better bookstores anywhere. (The feature-length video, ARISE!, will do in a pinch for illiterates.)
+				</div>
+			</div>
+
+			<!-- Columns are always 50% wide, on mobile and desktop -->
+			<div class="row">
+				<div class="col-xs-6">
+					There are samples of these masterpieces and other primal SubGenius liturgy in our CLASSICS section.
+				</div>
+			</div>
+				<div class="col-xs-6">
+					We also offer several SLAQs and FAQs from various SubGeniuses who, over the years, did their very best to explain the unexplainable.
+				</div>
+			</div>
+			</div>
 	</body>
 </html>
