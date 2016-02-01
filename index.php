@@ -36,26 +36,26 @@
 		<header>
 			<h1>This is Elaine's Pootstrap Bractice</h1>
 		</header>
-			<!-- Stack the columns on mobile by making one full-width and the other half-width -->
+			<!-- Stack the columns on mobile by making one full-width and the other half-width
 			<div class="row">
 				<div class="col-xs-12 col-md-6">
 					Pity the poor human Earth Pink.Pity the poor human Earth Pink.Pity the poor human Earth Pink.Pity the poor human Earth Pink.Pity the poor human Earth Pink.Pity the poor human Earth Pink.Pity the poor human Earth Pink.Pity the poor human Earth Pink.Pity the poor human Earth Pink.
 				</div>
 				<div class="col-xs-12 col-md-6">
 					A True SubGenius, however, understands EVERYTHING, INSTANTLY upon exposure to the Word or even just the Face of Dobbs.A True SubGenius, however, understands EVERYTHING, INSTANTLY upon exposure to the Word or even just the Face of Dobbs.A True SubGenius, however, understands EVERYTHING, INSTANTLY upon exposure to the Word or even just the Face of Dobbs.A True SubGenius, however, understands EVERYTHING, INSTANTLY upon exposure to the Word or even just the Face of Dobbs.A True SubGenius, however, understands EVERYTHING, INSTANTLY upon exposure to the Word or even just the Face of Dobbs.
-				</div>
+				</div>-->
 
 			<!-- Columns start at 50% wide on mobile and bump up to 33.3% wide on desktop -->
-				<!--<div class="row">
+				<div class="row">
 				<div class="col-xs-6 col-md-4">
-					A True SubGenius, however, understands EVERYTHING, INSTANTLY upon exposure to the Word or even just the Face of Dobbs.
+					A True SubGenius, however, understands EVERYTHING, INSTANTLY upon exposure to the Word or even just the Face of Dobbs.A True SubGenius, however, understands EVERYTHING, INSTANTLY upon exposure to the Word or even just the Face of Dobbs.A True SubGenius, however, understands EVERYTHING, INSTANTLY upon exposure to the Word or even just the Face of Dobbs.A True SubGenius, however, understands EVERYTHING, INSTANTLY upon exposure to the Word or even just the Face of Dobbs.
 				</div>
 
 				<div class="col-xs-6 col-md-4">
-					If the Church could provide THAT, it would be bigger than Islam or Christianity by now -- and probably much, much worse.
+					If the Church could provide THAT, it would be bigger than Islam or Christianity by now -- and probably much, much worse.If the Church could provide THAT, it would be bigger than Islam or Christianity by now -- and probably much, much worse.If the Church could provide THAT, it would be bigger than Islam or Christianity by now -- and probably much, much worse.If the Church could provide THAT, it would be bigger than Islam or Christianity by now -- and probably much, much worse.
 				</div>
 
-				<div class="col-xs-6 col-md-4">The next step after reading the Sacred Pamphlets (links above) would be to procure THE BOOK OF THE SUBGENIUS and its companion volume, REVELATION X, from our shops, EBay, or better bookstores anywhere. (The feature-length video, ARISE!, will do in a pinch for illiterates.)
+				<div class="col-xs-6 col-md-4">The next step after reading the Sacred Pamphlets (links above) would be to procure THE BOOK OF THE SUBGENIUS and its companion volume, REVELATION X, from our shops, EBay, or better bookstores anywhere. (The feature-length video, ARISE!, will do in a pinch for illiterates.)The next step after reading the Sacred Pamphlets (links above) would be to procure THE BOOK OF THE SUBGENIUS and its companion volume, REVELATION X, from our shops, EBay, or better bookstores anywhere. (The feature-length video, ARISE!, will do in a pinch for illiterates.)
 				</div>
 			</div>
 
@@ -67,8 +67,8 @@
 			</div>
 				<div class="col-xs-6">
 					We also offer several SLAQs and FAQs from various SubGeniuses who, over the years, did their very best to explain the unexplainable.
-				</div> -->
-			</div>
+				</div>
+			</div>-->
 			</div>
 	</body>
 </html>
