@@ -38,15 +38,15 @@
 		</header>
 			<!-- Stack the columns on mobile by making one full-width and the other half-width -->
 			<div class="row">
-				<div class="col-xs-12 col-md-8">Pity the poor human Earth Pink who comes looking for a SIMPLE, SHORT EXPLANATION of The Church of the SubGenius™, one that he or she can UNDERSTAND QUICKLY.
-
+				<div class="col-xs-12 col-md-6">
+					Pity the poor human Earth Pink.Pity the poor human Earth Pink.Pity the poor human Earth Pink.Pity the poor human Earth Pink.Pity the poor human Earth Pink.Pity the poor human Earth Pink.Pity the poor human Earth Pink.Pity the poor human Earth Pink.Pity the poor human Earth Pink.
 				</div>
-				<div class="col-xs-6 col-md-4">
-					A True SubGenius, however, understands EVERYTHING, INSTANTLY upon exposure to the Word or even just the Face of Dobbs.
+				<div class="col-xs-12 col-md-6">
+					A True SubGenius, however, understands EVERYTHING, INSTANTLY upon exposure to the Word or even just the Face of Dobbs.A True SubGenius, however, understands EVERYTHING, INSTANTLY upon exposure to the Word or even just the Face of Dobbs.A True SubGenius, however, understands EVERYTHING, INSTANTLY upon exposure to the Word or even just the Face of Dobbs.A True SubGenius, however, understands EVERYTHING, INSTANTLY upon exposure to the Word or even just the Face of Dobbs.A True SubGenius, however, understands EVERYTHING, INSTANTLY upon exposure to the Word or even just the Face of Dobbs.
 				</div>
 
 			<!-- Columns start at 50% wide on mobile and bump up to 33.3% wide on desktop -->
-			<div class="row">
+				<!--<div class="row">
 				<div class="col-xs-6 col-md-4">
 					A True SubGenius, however, understands EVERYTHING, INSTANTLY upon exposure to the Word or even just the Face of Dobbs.
 				</div>
@@ -59,7 +59,7 @@
 				</div>
 			</div>
 
-			<!-- Columns are always 50% wide, on mobile and desktop -->
+			<!-- Columns are always 50% wide, on mobile and desktop
 			<div class="row">
 				<div class="col-xs-6">
 					There are samples of these masterpieces and other primal SubGenius liturgy in our CLASSICS section.
@@ -67,7 +67,7 @@
 			</div>
 				<div class="col-xs-6">
 					We also offer several SLAQs and FAQs from various SubGeniuses who, over the years, did their very best to explain the unexplainable.
-				</div>
+				</div> -->
 			</div>
 			</div>
 	</body>
