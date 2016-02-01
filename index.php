@@ -44,7 +44,7 @@
 						<span class="sr-only">main menu</span>
 						<span class="glyphicon glyphicon-menu-hamburger"></span>
 					</button>
-					<a class="navbar-brand" href="#">Elaine's Super Awesome Page</a>
+					<a class="navbar-brand" href="#">Elaine's Super Awesome Page<img src="logo.png" width="40" height="40" alt="logo"></a>
 				</div>
 
 				<!-- here are your main nav links, grouped for toggling -->
@@ -66,7 +66,8 @@
 					A True SubGenius, however, understands EVERYTHING, INSTANTLY upon exposure to the Word or even just the Face of Dobbs.A True SubGenius, however, understands EVERYTHING, INSTANTLY upon exposure to the Word or even just the Face of Dobbs.A True SubGenius, however, understands EVERYTHING, INSTANTLY upon exposure to the Word or even just the Face of Dobbs.A True SubGenius, however, understands EVERYTHING, INSTANTLY upon exposure to the Word or even just the Face of Dobbs.A True SubGenius, however, understands EVERYTHING, INSTANTLY upon exposure to the Word or even just the Face of Dobbs.
 				</div>-->
 			<div class="row">
-				<div class="col-md-4">Apparenty the government is shutting down and secreting away all the people who believed in the conspiracy.  It was really something much much worse than humans taking over the world.</div>
+				<div class="col-md-4">
+					Apparenty the government is shutting down and secreting away all the people who believed in the conspiracy.  It was really something much much worse than humans taking over the world.</div>
 				<div class="col-md-4 col-md-offset-4">Some of the aliens that were found were actually human corpses.  That's the funny thing, they keep pulling the rug out from under you.</div>
 			</div>
 			<div class="row">
