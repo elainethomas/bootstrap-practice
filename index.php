@@ -70,7 +70,7 @@
 				<div class="col-md-4 col-md-offset-4">Some of the aliens that were found were actually human corpses.  That's the funny thing, they keep pulling the rug out from under you.</div>
 			</div>
 			<div class="row">
-				<div class="col-md-3 col-md-offset-3">You could make it bigger if you wanted it to.</div>
+				<div class="col-md-3 col-md-offset-3">You could make it bigger if you wanted to.</div>
 				<div class="col-md-3 col-md-offset-3">Once upon a time my dad wanted to show me the movie the God Father.</div>
 			</div>
 			<div class="row">
