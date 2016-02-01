@@ -34,7 +34,7 @@
 	<body>
 		<div class="container-fluid">
 		<header>
-			<h1>This is Elaine's Pootstrap Bractice</h1>
+			<h2>This is Elaine's Pootstrap Bractice</h2>
 		</header>
 			<nav class="navbar navbar-inverse">
 				<!-- logo and mobile toggle button get grouped together for better mobile display -->
@@ -71,7 +71,7 @@
 			</div>
 			<div class="row">
 				<div class="col-md-3 col-md-offset-3">You could make it bigger if you wanted to.</div>
-				<div class="col-md-3 col-md-offset-3">Once upon a time my dad wanted to show me the movie the God Father.</div>
+				<div class="col-md-3 col-md-offset-3">Once upon a time my dad wanted to show me the movie the Godfather.</div>
 			</div>
 			<div class="row">
 				<div class="col-md-6 col-md-offset-3">I'm normal now, I'm watching TV.  This commercial is on.  I've got a favorite show on every night.</div>
