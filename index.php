@@ -37,14 +37,18 @@
 			<h2>This is Elaine's Pootstrap Bractice</h2>
 		</header>
 			<nav class="navbar navbar-inverse">
+
 				<!-- logo and mobile toggle button get grouped together for better mobile display -->
 				<div class="navbar-header">
+					<img src="logo.png" width="50" height="50" alt="logo">
 					<!-- this is the mobile menu button -->
 					<button class="navbar-toggle collapsed" type="button" data-toggle="collapse" data-target="#main-menu">
 						<span class="sr-only">main menu</span>
 						<span class="glyphicon glyphicon-menu-hamburger"></span>
 					</button>
-					<a class="navbar-brand" href="#">Elaine's Super Awesome Page<img src="logo.png" width="40" height="40" alt="logo"></a>
+
+					<a class="navbar-brand" href="#">Elaine's Super Awesome Page</a>
+
 				</div>
 
 				<!-- here are your main nav links, grouped for toggling -->
@@ -85,7 +89,7 @@
 				</div>
 
 				<div class="col-xs-6 col-md-4">
-					If the Church could provide THAT, it would be bigger than Islam or Christianity by now -- and probably much, much worse.If the Church could provide THAT, it would be bigger than Islam or Christianity by now -- and probably much, much worse.If the Church could provide THAT, it would be bigger than Islam or Christianity by now -- and probably much, much worse.If the Church could provide THAT, it would be bigger than Islam or Christianity by now -- and probably much, much worse.
+					If the Church could provide THAT, it would be bigger than CFSM or Judeism by now -- and probably much, much worse.If the Church could provide THAT, it would be bigger than CFSM or Judeism by now -- and probably much, much worse.If the Church could provide THAT, it would be bigger than CFSM or Judeism by now -- and probably much, much worse.If the Church could provide THAT, it would be bigger than CFSM or Judeism by now -- and probably much, much worse.
 					<img src="shoulderCat.jpg" width="250" height="175" alt="photo of derp">
 				</div>
 
